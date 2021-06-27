@@ -19,7 +19,6 @@ function App(props) {
             <div className="linkdiv">
               <a href="https://www.facebook.com/profile.php?id=100005029123381" target="_blank">Facebook...</a>
             </div>
-            
           </div>
         </div>
       </div>
